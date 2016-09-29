@@ -1,3 +1,6 @@
+# Janeiro de 2016
+# Henrique Figueiredo
+
 package DespesasRinte;
 #!/usr/bin/perl
 use strict;
