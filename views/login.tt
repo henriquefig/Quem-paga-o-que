@@ -1,0 +1,32 @@
+<html>
+<head><title>QPO?</title>
+	<script type="text/javascript"  src="/javascripts/valida.js"></script>
+</head>
+<body>
+<div id=header>
+  <h1 align=center> Quem paga o quê?! </h1> <a href="/login"><img src="/images/home.jpeg"  alt="HOME" padding="none" height="45"></a> 
+</div>
+
+<div id="nav">
+<form method="post">
+  Email: <input type="text" name="email" placeholder="Email"><br>
+  Password: <input type="password" name="password" placeholder="Password"><br>
+  <input type="submit" value="Login" onclick="play()" name="op">
+  <audio id="audio" src="t.mp3" ></audio>
+</form>
+Não tem credenciais?<br> Registe-se <a 
+href=/register>já!</a>
+
+</div>
+
+<h3 align=center>Breve resumo do trabalho:</h3><br> Este trabalho foi 
+desenvolvido no ambito da 
+cadeira Redes Inteligentes e Serviços, tem como objectivo a criação de uma Aplicação Web.<br><br>
+
+Foi projectada a criação de uma aplicação de gestão de recursos económicos de pessoas com despesas partilhadas.<br><br>
+
+Este sistema implica o registo e <i>login</i> e implica ainda o uso de um e-mail válido. Se tiverem questões relativas à aplicação por favor consultem o relatório referente ao mesmo!<br>
+Espero que se divirtam! :D<br><br>
+<div id=footer> Copyright Henrique Figueiredo </div>
+</body>
+</html>
