@@ -15,3 +15,6 @@ Este trabalho foi desenvolvido no ambito da cadeira Redes Inteligentes e Serviç
 Foi projectada a criação de uma aplicação de gestão de recursos económicos de pessoas com despesas partilhadas.
 
 Este sistema implica o registo e <i>login</i> e implica ainda o uso de um e-mail válido. Se tiverem questões relativas à aplicação por favor consulte
+<p align="center">
+  <img src="./qpo.png" width="350"/>
+</p>
