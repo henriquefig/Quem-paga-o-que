@@ -7,6 +7,7 @@ Janeiro de 2016
 
 Este projecto consiste num website com acesso a base de dados desenvolvido em Perl.
 De modo a conseguir compilar este projecto deverá ter instalado MySQL assim como Perl e os módulos associados (DBI, Dancer2, MIME, etc).
+De modo a ver exemplos de output, assim como uma descrição mais detalhada consulte o relatório em pdf que se encontra neste projecto.
 
 <h3 align=center>Breve resumo do trabalho:</h3>
 
